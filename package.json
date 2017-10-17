@@ -1,0 +1,15 @@
+{
+  "name": "hjs-demo",
+  "version": "0.1.0",
+  "main": "dist/hjs-demo.js",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^7.1.5",
+    "gulp": "^3.9.1",
+    "postcss": "^6.0.13",
+    "rollup": "^0.50.0",
+    "rollup-plugin-minify": "^1.0.3",
+    "rollup-plugin-scss": "^0.3.0",
+    "run-sequence": "^2.2.0"
+  }
+}
